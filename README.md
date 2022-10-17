@@ -1,6 +1,6 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
-Name : Easwar. J
-Roll no 212221230024
+Name : THENMOZHI
+Roll no 212221230116
 Date of experiment :
 
 Ex. No. : 3
@@ -144,14 +144,14 @@ int main(void)
 
 
 ### Output screen shots :
-![image](https://user-images.githubusercontent.com/94154683/193458693-fc363ddd-f14c-4a92-886f-b56b779880b4.png)
+![image](A.png)
 
-![image](https://user-images.githubusercontent.com/94154683/193458725-ea0d8010-6302-4ad4-91b2-5011544aeedd.png)
+![image](B.png)
 
 
 ### Circuit Diagram:
 
-![image](https://user-images.githubusercontent.com/94154683/193458500-e4b1b72d-43cd-41d1-a21e-fbc5389960f2.png)
+![image](C.png)
 
 
 
